@@ -1,8 +1,8 @@
 ---
 author: Stanislaw Kosinski
 layout: post-full
-title: Glitch Garden
-featimg: 1.jpg
+title: Project Boost
+featimg: projectboost.jpg
 tags: [text]
 category: [standard]
 ---

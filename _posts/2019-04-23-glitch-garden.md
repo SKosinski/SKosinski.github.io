@@ -2,7 +2,7 @@
 author: Stanislaw Kosinski
 layout: post-full
 title: Glitch Garden
-featimg: 1.jpg
+featimg: glitchgarden.jpg
 tags: [text]
 category: [standard]
 ---
