@@ -2,7 +2,7 @@
 author: Stanislaw Kosinski
 layout: post-full
 title: Arkon Assault
-featimg: arkonassault.jpg
+featimg: arkonassault.png
 tags: [text]
 category: [standard]
 ---

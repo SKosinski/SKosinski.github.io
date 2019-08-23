@@ -2,7 +2,7 @@
 author: Stanislaw Kosinski
 layout: post-full
 title: Tilevania
-featimg: tilevania.jpg
+featimg: tilevania.png
 tags: [text]
 category: [standard]
 ---

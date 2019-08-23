@@ -2,7 +2,7 @@
 author: Stanislaw Kosinski
 layout: post-full
 title: Project Boost
-featimg: projectboost.jpg
+featimg: projectboost.png
 tags: [text]
 category: [standard]
 ---

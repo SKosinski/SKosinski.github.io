@@ -2,7 +2,7 @@
 author: Stanislaw Kosinski
 layout: post-full
 title: Realm Rush
-featimg: realmrush.jpg
+featimg: realmrush.png
 tags: [text]
 category: [standard]
 ---

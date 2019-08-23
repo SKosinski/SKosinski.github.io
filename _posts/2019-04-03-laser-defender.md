@@ -2,7 +2,7 @@
 author: Stanislaw Kosinski
 layout: post-full
 title: Laser Defender
-featimg: laserdefender.jpg
+featimg: laserdefender.png
 tags: [text]
 category: [standard]
 ---

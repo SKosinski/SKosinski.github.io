@@ -2,7 +2,7 @@
 author: Stanislaw Kosinski
 layout: post-full
 title: Football Arkanoid
-featimg: footballarkanoid.jpg
+featimg: footballarkanoid.png
 tags: [text]
 category: [standard]
 ---

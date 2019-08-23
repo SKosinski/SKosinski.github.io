@@ -2,7 +2,7 @@
 author: Stanislaw Kosinski
 layout: post-full
 title: Zombie Runner
-featimg: zombierunner.jpg
+featimg: zombierunner.png
 tags: [text]
 category: [standard]
 ---
