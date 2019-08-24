@@ -1,6 +1,6 @@
 ---
 author: Stanislaw Kosinski
-layout: post-classic-sidebar-right
+layout: post-full
 title: Laser Defender
 featimg: laserdefender.png
 tags: [text]
