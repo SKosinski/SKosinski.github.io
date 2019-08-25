@@ -1,5 +1,5 @@
 ---
-author: Stanislaw Kosinski
+author: skosinski
 layout: post-full
 title: Tilevania
 featimg: tilevania.png

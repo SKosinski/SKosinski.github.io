@@ -1,5 +1,5 @@
 ---
-author: Stanislaw Kosinski
+author: skosinski
 layout: post-full
 title: Project Boost
 featimg: projectboost.png

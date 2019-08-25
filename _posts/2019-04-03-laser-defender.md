@@ -1,5 +1,5 @@
 ---
-author: Stanislaw Kosinski
+author: skosinski
 layout: post-full-phone
 title: Laser Defender
 featimg: laserdefender.png
