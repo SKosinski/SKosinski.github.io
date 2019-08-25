@@ -6,6 +6,8 @@ featimg: laserdefender.png
 tags: [text]
 category: [standard]
 ---
-Here you can see the basic post. No fancy type, no setting and the featured image is just embedded into the content.
 
-The front matter for that basic post just consists of the basic tags, author, title, featimg, tags and category.
+A small prototype of a 2D scrolling game. Steer your ship, keep destroying the enemies and try not to get hit! 
+Key Features: Neverending level, Waves of enemies, Enemy paths, Particle Effects
+Game was based on a udemy tutorial "Complete C# Unity Developer 2D" created by gamedev.tv.
+Not intended for commercial use.

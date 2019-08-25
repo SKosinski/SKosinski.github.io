@@ -6,6 +6,8 @@ featimg: zombierunner.png
 tags: [text]
 category: [standard]
 ---
-Here you can see the basic post. No fancy type, no setting and the featured image is just embedded into the content.
 
-The front matter for that basic post just consists of the basic tags, author, title, featimg, tags and category.
+My largest 3D game yet. A short, but intense experience. Shoot zombies, maintain your flashlight batteries, save ammo and don't get scared!
+Key Features: Terrain adapted to on foot character movement, First Person Controller, Different Weapons, First Enemy AI (NavMeshAgent), Raycasting, Pause Screen, 3D Pickups, Props made by Probuilder, Buildings made by Probuilder
+Game was based on a udemy tutorial "Complete C# Unity Developer 3D" created by gamedev.tv.
+Not intended for commercial use.

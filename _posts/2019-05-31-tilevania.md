@@ -6,6 +6,8 @@ featimg: tilevania.png
 tags: [text]
 category: [standard]
 ---
-Here you can see the basic post. No fancy type, no setting and the featured image is just embedded into the content.
 
-The front matter for that basic post just consists of the basic tags, author, title, featimg, tags and category.
+A small-scale 2D platformer prototype. Avoid the enemies, obstacles and get to the end of the level!
+Key Features: TileMap system, PickUps
+Game was based on a udemy tutorial "Complete C# Unity Developer 2D" created by gamedev.tv.
+Not intended for commercial use.

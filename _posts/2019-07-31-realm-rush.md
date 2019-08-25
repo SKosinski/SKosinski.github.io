@@ -6,6 +6,8 @@ featimg: realmrush.png
 tags: [text]
 category: [standard]
 ---
-Here you can see the basic post. No fancy type, no setting and the featured image is just embedded into the content.
 
-The front matter for that basic post just consists of the basic tags, author, title, featimg, tags and category.
+A 3D prototype of a tower defence style game. It does not have a full game loop as of now, it was mainly made as an excercise to implementing algorithms and structures into a Unity project.
+Key Features: PathFinder(C# Lists, Dictionary Data Structure, Implementing Breadth First Search Algorithm, C# Queues), Check for distance, Ring Buffer
+Game was based on a udemy tutorial "Complete C# Unity Developer 3D" created by gamedev.tv.
+Not intended for commercial use.
