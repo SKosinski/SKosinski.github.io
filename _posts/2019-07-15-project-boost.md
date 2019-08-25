@@ -3,8 +3,7 @@ author: Stanislaw Kosinski
 layout: post-full
 title: Project Boost
 featimg: projectboost.png
-tags: [3D]
-category: [Prototypes]
+tags: [3D, Prototype]
 ---
 <br>
 My first 3D project made in Unity. It's a simple arcade prototype, in which your goal is to reach the end of the level. Become a pilot of a rocket, that is suprisingly difficult to manage! <br> 

@@ -53,17 +53,8 @@
                         <div class="post-content">
                             {{ content }}
                         </div>
-                        {% if page.category or page.tags %}
+                        {% if page.tags %}
                         <div class="catsandtags">
-                            {% if page.category %}
-                            <span class="category">
-                                <span class="name">categories:</span>
-                                {{ page.categories | category_links }}
-                            </span>
-                            {% endif %}
-                            {% if page.category and page.tags %}
-                                &bull;
-                            {% endif %}
                             {% if page.tags %}
                             <span class="tags">
                                 <span class="name">tags:</span>

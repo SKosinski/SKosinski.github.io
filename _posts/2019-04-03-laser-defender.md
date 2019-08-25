@@ -3,8 +3,7 @@ author: Stanislaw Kosinski
 layout: post-full-phone
 title: Laser Defender
 featimg: laserdefender.png
-tags: [2D; 3D]
-category: [Prototypes]
+tags: [2D, Prototype]
 ---
 
 A small prototype of a 2D scrolling game. Steer your ship, keep destroying the enemies and try not to get hit! 

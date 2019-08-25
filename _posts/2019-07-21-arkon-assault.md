@@ -3,8 +3,7 @@ author: Stanislaw Kosinski
 layout: post-full
 title: Arkon Assault
 featimg: arkonassault.png
-tags: [2D]
-category: [Prototypes]
+tags: [2D, Prototype]
 ---
 
 A game that represents the 3D railshooter genre. Avoid terrain obstacles and get to the end of the level! Shoot enemies along the way and try to get the highest score!
