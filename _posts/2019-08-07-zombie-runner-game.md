@@ -3,8 +3,8 @@ author: Stanislaw Kosinski
 layout: post-full
 title: Zombie Runner
 featimg: zombierunner.png
-tags: [text]
-category: [standard]
+tags: [3D]
+category: [Games]
 ---
 
 My largest 3D game yet. A short, but intense experience. Shoot zombies, maintain your flashlight batteries, save ammo and don't get scared!

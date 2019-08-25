@@ -3,8 +3,8 @@ author: Stanislaw Kosinski
 layout: post-full
 title: Tilevania
 featimg: tilevania.png
-tags: [text]
-category: [standard]
+tags: [2D]
+category: [Prototypes]
 ---
 
 A small-scale 2D platformer prototype. Avoid the enemies, obstacles and get to the end of the level!

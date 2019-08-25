@@ -3,8 +3,8 @@ author: Stanislaw Kosinski
 layout: post-full
 title: Realm Rush
 featimg: realmrush.png
-tags: [text]
-category: [standard]
+tags: [3D]
+category: [Prototypes]
 ---
 
 A 3D prototype of a tower defence style game. It does not have a full game loop as of now, it was mainly made as an excercise to implementing algorithms and structures into a Unity project.

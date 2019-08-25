@@ -4,7 +4,7 @@ layout: post-full
 title: Glitch Garden
 featimg: glitchgarden.png
 tags: [2D]
-category: [Game]
+category: [Games]
 ---
 
 My largest 2D game so far. It's a representative of a tower defence genre. Buy fortifications or defenders and destroy everything coming your way, but never forget about maintaining good economy! Think fast and defend your base!

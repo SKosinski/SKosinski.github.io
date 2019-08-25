@@ -3,8 +3,8 @@ author: Stanislaw Kosinski
 layout: post-full
 title: Football Arkanoid
 featimg: footballarkanoid.png
-tags: [text]
-category: [standard]
+tags: [2D]
+category: [Games]
 ---
 
 My first 2D game made in Unity. It's a simple arkanoid, where you goal is... to score a goal! Destroy all blocks on the field, beat the keeper and put the ball in between two goalposts.
