@@ -1,5 +1,5 @@
 ---
-author: skosinski
+author: Stanislaw Kosinski
 layout: post-full
 title: Football Arkanoid
 featimg: footballarkanoid.png
