@@ -7,7 +7,6 @@ tags: [3D, Prototype]
 ---
 <br>
 <a style="text-align:center;display:block;margin-left:auto;margin-right:auto;" href="https://github.com/SKosinski/arkon-assault"> Check it on GITHub! </a> <br>
-<br>
 A game that represents the 3D railshooter genre. Avoid terrain obstacles and get to the end of the level! Shoot enemies along the way and try to get the highest score!
 <br>
 Game was based on a udemy tutorial "Complete C# Unity Developer 3D" created by gamedev.tv.<br>
