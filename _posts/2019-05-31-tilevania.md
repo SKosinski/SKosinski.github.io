@@ -3,7 +3,7 @@ author: Stanislaw Kosinski
 layout: post-full
 title: Tilevania
 featimg: tilevania.png
-tags: [2D]
+tags: [2D 3D]
 category: [Prototypes]
 ---
 
