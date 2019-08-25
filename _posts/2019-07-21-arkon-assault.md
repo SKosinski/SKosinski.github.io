@@ -5,7 +5,8 @@ title: Arkon Assault
 featimg: arkonassault.png
 tags: [3D, Prototype]
 ---
-<a style="text-align:center;" href="https://github.com/SKosinski/arkon-assault"> Check it on GITHub! </a> <br>
+<br>
+<a style="text-align:center;display:block;margin-left:auto;margin-right:auto;" href="https://github.com/SKosinski/arkon-assault"> Check it on GITHub! </a> <br>
 <br>
 A game that represents the 3D railshooter genre. Avoid terrain obstacles and get to the end of the level! Shoot enemies along the way and try to get the highest score!
 <br>
