@@ -11,7 +11,7 @@ infinite_scroll: true #change to false if you want to use pagination
 gems: [jekyll-paginate]
 tag_dir: /tag
 category_dir: /category
-author_dir: /author
+author_dir: /aboutme
 author_title_prefix: 'Posted by '
 media_folder: /media/compressed
 author_default_avatar: /profile-pic.jpg
