@@ -6,7 +6,7 @@ featimg: zombierunner.png
 tags: [3D, Game]
 ---
 <br>
-<a style="text-align:center;display:block;margin-left:auto;margin-right:auto;" href="https://github.com/SKosinski/zombie-runner"> Check it on GITHub! </a> <br>
+<a style="text-align:center;display:block;margin-left:auto;margin-right:auto;" href="https://github.com/SKosinski/zombie-runner"> Check it on GitHub! </a> <br>
 My largest 3D game yet. A short, but intense experience. Shoot zombies, maintain your flashlight batteries, save ammo and don't get scared!<br>
 <br>
 Game was based on a udemy tutorial "Complete C# Unity Developer 3D" created by gamedev.tv.<br>
